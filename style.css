@@ -1,0 +1,19 @@
+body {
+    background-color: #00ff00;
+}
+
+h1 {
+    color: #964B00;
+}
+
+img {
+    float: left;
+    margin-right: 2em;
+    border: 1pt solid #707070;
+}
+
+p {
+    font-size: 11pt
+}
+
+/*Tracy Ayres*/
